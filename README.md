@@ -13,7 +13,7 @@ See it's repo to find more information: https://github.com/ConSol/docker-headles
 ## Run container
 
 ```
-docker run -p 5901:5901 -p 6901:6901 -v $PWD:/testcafe tnobody/testcafe-ubuntu-xfce testcafe chrome my-test.ts
+docker run -p 5901:5901 -p 6901:6901 -v $PWDexample-tests:/testcafe tnobody/testcafe-ubuntu-xfce testcafe chrome example.ts
 ```
 
 The exposed Ports of this container are: 
