@@ -21,4 +21,6 @@ The exposed Ports of this container are:
 - 5901: For VNC clients
 - 6901: For browserbased VNC-Webview
 
+To access this views the password: `vncpassword` is required.
+
 `/testcafe` is the Workingdirectory where you should mount your testfiles.
