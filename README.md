@@ -1,4 +1,4 @@
-# An Ubuntu-XFCE Container based Container for "real"™ UI-Tests
+# An Ubuntu-XFCE based Container for "real"™ UI-Tests
 
 This image provides an environment to run real browser tests with **[Testscafe](http://devexpress.github.io/testcafe/)**
 
